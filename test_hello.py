@@ -8,4 +8,5 @@ def test_more_hello():
 def test_more_goodbye():
     assert "bye" == more_goodbye()
 
+
 VAR = 1
