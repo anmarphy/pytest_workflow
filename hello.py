@@ -1,3 +1,5 @@
+"""Module providing hello and goodbye."""
+
 def more_hello():
     '''Returning a Hi'''
     # import pdb;pdb.set_trace()
